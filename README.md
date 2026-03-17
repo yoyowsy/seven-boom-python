@@ -1,10 +1,9 @@
-Seven Boom! 🚀
-Slouthbyte Weekly Challenge
+## Seven Boom! 🚀 -- Slouthbyte Weekly Challenge
 https://slothbytes.beehiiv.com/p/how-does-google-maps-find-the-fastest-route
 
 This repository contains my solution for the Seven Boom! logic challenge from the Slouthbyte newsletter.
 
-📝 The Challenge
+## 📝 The Challenge
 Create a function that takes an array of numbers and for every 7 found, add one "Boom!" to your result. If no 7 is found anywhere, return "there is no 7 in the array".
 
 Examples
@@ -17,7 +16,7 @@ Examples
 
 [7, 77, 100] ➞ "Boom! Boom! Boom!" (7 has one, 77 has two)
 
-🛠️ My Solution
+## 🛠️ My Solution
 I used Python to solve this. The core logic involves:
 
 Converting the input list into a single string to catch "7"s inside larger numbers (like 97 or 77).
