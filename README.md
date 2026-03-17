@@ -25,7 +25,7 @@ Using the .count() method for efficiency.
 
 Using ast.literal_eval to allow the user to input data in the exact [1, 2, 3] format.
 
-How to Run
+## How to Run
 
 Ensure you have Python installed.
 
@@ -33,11 +33,8 @@ Run the script: python seven_boom.py
 
 Enter your list when prompted, for example: [7, 17, 77]
 
-🚀 Skills Demonstrated
-String Manipulation
-
-List Processing
-
-Error Handling (try/except)
-
-User Input Parsing
+## 🚀 Skills Demonstrated
+- String Manipulation
+- List Processing
+- Error Handling (try/except)
+- User Input Parsing
