@@ -1,5 +1,6 @@
 Seven Boom! 🚀
 Slouthbyte Weekly Challenge
+https://slothbytes.beehiiv.com/p/how-does-google-maps-find-the-fastest-route
 
 This repository contains my solution for the Seven Boom! logic challenge from the Slouthbyte newsletter.
 
